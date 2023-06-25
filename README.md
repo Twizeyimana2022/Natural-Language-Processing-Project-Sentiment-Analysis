@@ -18,7 +18,7 @@ pip install -r requirements.txt
 4.	Run the Streamlit app:
 streamlit run sentimentapp.py
 5.	Open your web browser and visit http://localhost:8501 to access the app.
-Author
-##TWIZEYIMANA Eric
+##Author
+TWIZEYIMANA Eric
 ##Email: erictwiz6@gmail.com 
 
